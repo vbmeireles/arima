@@ -1,0 +1,7 @@
+﻿Ticker,Market,Provider,Color,Color2
+BLX,BTC,Trading View,#ff9900,#cc6600
+BTC-USD,BTC,Yahoo Finance,#ff9900,#cc6600
+ETH-USD,ETH,Yahoo Finance,#666666,#333333
+ETH-BTC,ETH,,#666666,#333333
+XRP-USD,XRP,Yahoo Finance,#006699,#003366
+XRP-BTC,XRP,,#006699,#003366
